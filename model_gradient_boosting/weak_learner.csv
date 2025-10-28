@@ -1,0 +1,21 @@
+personality,true y0,predicted_y0,residual (y - predicted_y0),predicted_residual by Tree 2,predicted_y1 = predicted_y0 + 0.1 * residual by tree 2,new_residual (y - predicted_y1)
+Extrovert,1,0.65,0.35,0.3,0.68,0.32
+Introvert,0,0.35,-0.35,-0.2,0.33,-0.33
+Introvert,0,0.35,-0.35,-0.4,0.31,-0.31
+Extrovert,1,0.65,0.35,0.34,0.684,0.316
+Extrovert,1,0.65,0.35,0.33,0.683,0.317
+Extrovert,1,0.65,0.35,0.34,0.684,0.316
+Extrovert,1,0.65,0.35,0.3,0.68,0.32
+Extrovert,1,0.65,0.35,0.45,0.695,0.305
+Introvert,0,0.35,-0.35,-0.31,0.319,-0.319
+Extrovert,1,0.65,0.35,0.4,0.69,0.31
+Extrovert,1,0.65,0.35,0.34,0.684,0.316
+Introvert,0,0.35,-0.35,-0.29,0.321,-0.321
+Extrovert,1,0.65,0.35,0.25,0.675,0.325
+Extrovert,1,0.65,0.35,0.35,0.685,0.315
+Introvert,0,0.35,-0.35,-0.45,0.305,-0.305
+Extrovert,1,0.65,0.35,0.35,0.685,0.315
+Introvert,0,0.35,-0.35,-0.35,0.315,-0.315
+Extrovert,1,0.65,0.35,0.34,0.684,0.316
+Introvert,0,0.35,-0.35,-0.33,0.317,-0.317
+Extrovert,1,0.65,0.35,0.46,0.696,0.304
